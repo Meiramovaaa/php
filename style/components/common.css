@@ -1,0 +1,20 @@
+.section{
+    background-color: #232222;
+}
+
+.container{
+    padding: 30px 50px;
+}
+
+.input-textarea{
+    outline: none;
+}
+
+body{
+    background-color: #232222;
+}
+
+.text-danger{
+    font-weight: bold;
+    color: red;
+}
